@@ -1,5 +1,5 @@
 from tkinter import *
-
+# building a calculator, last term's assignment.
 # centimetres to inches
 def CtoI_but():
 	global expression
