@@ -1,5 +1,12 @@
+#Code I created myself while making a working calculator with a GUI, I found this a lot easier as this has a clear end goal to create something. 
+#This is what I learnt how to do last time I did coding and find it much easier when I have something final to create.
+#I thought I would add it as it shows what I can do with coding and i am rather proud of it. It took lots of research as I had no coding experience before this
+
+
+
+
 from tkinter import *
-# building a calculator, last term's assignment.
+
 # centimetres to inches
 def CtoI_but():
 	global expression
