@@ -33,6 +33,7 @@ overwhealmed with it all and would definetly be struggling a lot more.
 I also had a look at some more libraries, there sure is a lot of them, crazy amount really.
 I was unfortunely not in class today on a computer so had to watch it all on a tablet, so couldnt program along but I have pycharm installed on computer I use at other place so I will do some practise 
 when I get a chance and post any code I write into Github.
+I tryed using visual studio code to do the activities with csharp, it was different and took a bit or should I say a lot fo playing around,its kind of similar but different, I shall stick to python if at all possible that is confusing enough. at least for now
 
 Week Four.
 
