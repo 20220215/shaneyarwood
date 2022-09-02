@@ -1,0 +1,6 @@
+Console.WriteLine("hello world!");
+Console.WriteLine("I am trying to learn C#");
+Console.WriteLine("im not very good!");
+Console.WriteLine("But one day maybe I will be!");
+Console.WriteLine("But at least i am giving it a go");
+Console.Writeline("And this it output in console");
