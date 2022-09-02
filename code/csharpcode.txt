@@ -1,0 +1,24 @@
+# please note I didnt write this code I got it and copied it and changed some and played with it
+# I havent done any csharp before so its new and different and taking me a while to suss it out
+
+using System;  
+public class Exercise6  
+{  
+    public static void Main() 
+{
+   int j,n;
+   
+	Console.Write ("\n\n");
+     Console.Write ("display the table:\n");
+    Console.Write ("-------------------");
+    Console.Write ("\n\n");   
+
+   Console.Write ("enter the number (table to be calculated) : ");
+   n= Convert.ToInt32 (Console.ReadLine());   
+   Console.Write ("\n");
+   for (j=1;j<=10;j++)
+   {
+     Console.Write ("{0} X {1} = {2} \n",n,j,n*j);
+   }
+  }
+}
